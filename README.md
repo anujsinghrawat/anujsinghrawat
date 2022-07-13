@@ -12,7 +12,7 @@ Hey! I'm Archishman, I make elegantly professional 🌍 web apps and 📱 flutte
 ✈️ Hire me for remote work & internships
 
 
-🔭 I’m currently working on flutter based app development<br>🤝 I’m looking for help with backend <br>🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
+🔭 I’m currently working on flutter based app development<br>🤝 I’m looking for help with backend <br>⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
 
 
 
