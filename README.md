@@ -1,3 +1,10 @@
+<h1 align="center">Hey, I'm Anuj <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h2 align="center">App Developer | Web Developer | UI/UX Designer</h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anujsinghrawat&label=Profile%20views&color=0e75b6&style=flat" alt="anujsinghrawat" /> </p>
+
+<img src="https://user-images.githubusercontent.com/71402528/126039381-d678d754-b37f-4ee6-a6c8-102444575094.png" height="200px" width="250px" alt="illustration" align="left">
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
