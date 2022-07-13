@@ -6,7 +6,14 @@
 <img src="https://user-images.githubusercontent.com/71402528/126039381-d678d754-b37f-4ee6-a6c8-102444575094.png" height="200px" width="250px" alt="illustration" align="left">
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+<a href="https://twitter.com/amulyaxx" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/anujsinghrawat/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+Hey! I'm Archishman, I make elegantly professional 🌍 web apps and 📱 flutter apps for a living and also design user experiences 🎨. I have a soft spot for technology and communities, Software Development, Developer Relations, UI/UX Design, and Product Management 💖! I'm working on web development projects on GitHub for everybody to use which you can find here!  Nowadays, I’m learning ReactJS and  Ruby on Rails. I regularly practice DSA questions & and I'm always up for quick coding brainstorming sessions! I am an open source advocate.! <br>
+✈️ Hire me for remote work & internships
+
+
+🔭 I’m currently working on flutter based app development<br>🤝 I’m looking for help with backend <br>🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
+
 
 
 ## 🌐 Socials:
